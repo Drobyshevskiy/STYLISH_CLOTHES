@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/STYLISH_CLOTHES/static/css/main.c0e375ba.chunk.css",
+    "main.js": "/STYLISH_CLOTHES/static/js/main.33ff830b.chunk.js",
+    "main.js.map": "/STYLISH_CLOTHES/static/js/main.33ff830b.chunk.js.map",
+    "runtime-main.js": "/STYLISH_CLOTHES/static/js/runtime-main.9a22da2c.js",
+    "runtime-main.js.map": "/STYLISH_CLOTHES/static/js/runtime-main.9a22da2c.js.map",
+    "static/js/2.c8b5331f.chunk.js": "/STYLISH_CLOTHES/static/js/2.c8b5331f.chunk.js",
+    "static/js/2.c8b5331f.chunk.js.map": "/STYLISH_CLOTHES/static/js/2.c8b5331f.chunk.js.map",
+    "index.html": "/STYLISH_CLOTHES/index.html",
+    "precache-manifest.78095129b11d2b65ce8cb41fd9df79bf.js": "/STYLISH_CLOTHES/precache-manifest.78095129b11d2b65ce8cb41fd9df79bf.js",
+    "service-worker.js": "/STYLISH_CLOTHES/service-worker.js",
+    "static/css/main.c0e375ba.chunk.css.map": "/STYLISH_CLOTHES/static/css/main.c0e375ba.chunk.css.map",
+    "static/js/2.c8b5331f.chunk.js.LICENSE.txt": "/STYLISH_CLOTHES/static/js/2.c8b5331f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a22da2c.js",
+    "static/js/2.c8b5331f.chunk.js",
+    "static/css/main.c0e375ba.chunk.css",
+    "static/js/main.33ff830b.chunk.js"
+  ]
+}

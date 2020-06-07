@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drobyshevskiy/STYLISH_CLOTHES/static/css/main.c0e375ba.chunk.css",
+    "main.js": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/main.33ff830b.chunk.js",
+    "main.js.map": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/main.33ff830b.chunk.js.map",
+    "runtime-main.js": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/runtime-main.8908bab5.js",
+    "runtime-main.js.map": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/runtime-main.8908bab5.js.map",
+    "static/js/2.c8b5331f.chunk.js": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/2.c8b5331f.chunk.js",
+    "static/js/2.c8b5331f.chunk.js.map": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/2.c8b5331f.chunk.js.map",
+    "index.html": "/Drobyshevskiy/STYLISH_CLOTHES/index.html",
+    "precache-manifest.fa4211253736ebd48651e2e95653ee1b.js": "/Drobyshevskiy/STYLISH_CLOTHES/precache-manifest.fa4211253736ebd48651e2e95653ee1b.js",
+    "service-worker.js": "/Drobyshevskiy/STYLISH_CLOTHES/service-worker.js",
+    "static/css/main.c0e375ba.chunk.css.map": "/Drobyshevskiy/STYLISH_CLOTHES/static/css/main.c0e375ba.chunk.css.map",
+    "static/js/2.c8b5331f.chunk.js.LICENSE.txt": "/Drobyshevskiy/STYLISH_CLOTHES/static/js/2.c8b5331f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8908bab5.js",
+    "static/js/2.c8b5331f.chunk.js",
+    "static/css/main.c0e375ba.chunk.css",
+    "static/js/main.33ff830b.chunk.js"
+  ]
+}
